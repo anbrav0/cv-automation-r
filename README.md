@@ -1,5 +1,5 @@
 # cv-automation-r
-This repository is for the purposes of automating my CV for easier use of access and updating. to be able to create your own CV, you will need:
+This repository is for the purposes of automating my CV for easier use of access and updating. To be able to create your own CV, you will need:
 
 - LaTex (or TinyTex)
 - R markdown 
