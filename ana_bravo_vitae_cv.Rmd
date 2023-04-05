@@ -1,14 +1,14 @@
 ---
 name: Ana Bravo
 #surname: Bravo
-position: "MPH Biostatistics"
+position: "Data Analyst"
 address: "Miami, Florida"
 #phone: +1 22 3333 4444
 www: sunlab.fiu.edu
-email: "anbravo"
+email: "anbravo@fiu.edu"
 #twitter: mariecurie
 github: anbrav0
-aboutme: Specialized working with adolescent substance use, biospecimen data collection and R programming. More specifically, I am interested in looking at different trajectories adolescents take when experimenting with substances such as nicotine, marijuana, and alcohol. 
+aboutme: Specialized working with adolescent substance use, biospecimen data collection, R programming and data visualization. 
 linkedin: anabravobiostats
 headcolor: 414141
 date: "`r format(Sys.time(), '%B %Y')`"
@@ -96,7 +96,7 @@ research %>%
 Professional_experience <- tribble(
   ~title, ~department, ~startMonth, ~startYear, ~endMonth, ~endYear, ~where, ~details,
   
-  "Part Time Lab Instructor",
+  "Part Time Lab Instructor/Advisor",
   "Mathematics Department",
   "Febuary",
   2019,
@@ -240,4 +240,4 @@ bibliography_entries("packages.bib") %>%
 
 Yeguez, C.E., **Bravo, A.,** Troya, S., Pettit, J.W., (In preparation). Are Individuals with ADHD at Risk for Suicide? A Systematic Review of Longitudinal Studies. 
 
-
+**Bravo, A.,** Wang, W., Rojas, P., (In preparation). Examining Sociocultural Factors of Hispanic Stress: A Community Based Repeated Measures Study in South Florida among Latinx Adolescents.
